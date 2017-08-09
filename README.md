@@ -11,6 +11,9 @@ In order to make them visible copy the files to
 /opt/monitor/op5/ninja/application/media/images/logos
 ```
 
+## Disclaimer
+These pictures and logos are not authorized by, sponsored by or associated with the trademark owners.
+
 ___
 
 Licensed under the [__Apache License Version 2.0__](https://www.apache.org/licenses/LICENSE-2.0)
