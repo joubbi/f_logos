@@ -10,6 +10,11 @@ In order to make them visible copy the files to
 ```sh
 /opt/monitor/op5/ninja/application/media/images/logos
 ```
+or
+```sh
+/usr/local/nagios/share/images/logos
+```
+
 
 ## Examples
 ![](f_11503.png)        ![](f_cisco.png)              ![](f_jenkins.png)  ![](f_sun.png)
