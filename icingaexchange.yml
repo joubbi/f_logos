@@ -1,0 +1,19 @@
+name: f_logos
+description: "file:///README.md"
+url: "https://gitlab.com/faridj/f_logos.git"
+tags: Logos
+vendor: Centos, Checkpoint, Cisco, Citrix, F5 Networks, HP, Huaweii, IBM, Juniper, Linux, NetApp, Oracle, RedHat, Sun, Unix
+target: Appliance, Database, ESX, Firewall, Hardware, Hypervisor, Network, Operating System, Storage, Telephony
+type: Icons
+license: Apache v2
+releases: 
+  - 
+    name: 1.0
+    description: "1.0 Release"
+    files: 
+      - 
+        name: f_logos
+        url: "file:///f_logos.tar.gz"
+        description: "First public release"
+        checksum: 33e680d0720d49481f33466ecf6392be
+
