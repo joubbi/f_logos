@@ -18,7 +18,7 @@ or
 
 ## Examples
 ![](f_11503.png)        ![](f_cisco.png)              ![](f_jenkins.png)  ![](f_sun.png)
-![](f_2960f.png)        ![](f_completel.png)          ![](f_juniper.png)  ![](f_tele2.png)
+![](f_2960s.png)        ![](f_completel.png)          ![](f_juniper.png)  ![](f_tele2.png)
 ![](f_2960.png)         ![](f_cp.png)                 ![](f_korea.png)    ![](f_telefonica.png)
 ![](f_2960x.png)        ![](f_docker2.png)            ![](f_kpn.png)      ![](f_telenor.png)
 ![](f_3560.png)         ![](f_docker.png)             ![](f_kvm.png)      ![](f_ubuntu.png)
